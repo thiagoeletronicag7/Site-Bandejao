@@ -38,7 +38,7 @@ body
 
 #banner-1
 {
-    max-height: 500px;
+    max-height: 400px;
     background-image: url(/images/banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -78,7 +78,7 @@ body
 #parceiros
 {
     background-color: rgb(160, 154, 154);
-    max-height: 500px;
+    max-height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
