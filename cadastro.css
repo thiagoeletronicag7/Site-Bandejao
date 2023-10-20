@@ -1,0 +1,21 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.fundo-pai
+{
+    display: flex;
+    background-color: gray;
+    height: 100vh;
+    width: 100%;
+}
+
+.formulario
+{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    margin: auto;
+}
