@@ -6,7 +6,7 @@ body
 #cabecalho
 {
     max-height: 500px;
-    background-image: url(/images/fundo_cabecalho.png);
+    background-image: url(images/fundo_cabecalho.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -39,7 +39,7 @@ body
 #banner-1
 {
     max-height: 400px;
-    background-image: url(/images/banner1.png);
+    background-image: url(images/banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -108,7 +108,7 @@ body
 #rodape
 {
     max-height: 500px;
-    background-image: url(/images/fundo_cabecalho.png);
+    background-image: url(images/fundo_cabecalho.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
