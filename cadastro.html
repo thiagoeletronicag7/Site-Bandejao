@@ -9,7 +9,14 @@
 <body>
     <div class="fundo-pai">
         <div class="formulario">
+            <label for="nome" class="texto-cadastro">Informe seu nome&nbsp;&nbsp;</label>
+            <input type="text" id="nome" size="30" required />
+            <label for="email" class="texto-cadastro">Informe seu e-mail&nbsp;&nbsp;</label>
+            <input type="email" id="email" pattern=".+@globex\.com" size="30" required />
             
+            <div class="botao-cadastro">
+                <button class="glow-on-hover" type="button" onclick="validarFormulario()">CADASTRE-SE</button>
+            </div>  
         </div>
     </div>
     <script src="cadastro.js"></script>
